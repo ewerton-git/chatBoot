@@ -1,0 +1,9 @@
+# Dependências do Node (SEMPRE IGNORAR)
+node_modules/
+
+# Logs e arquivos de depuração
+npm-debug.log*
+.DS_Store
+
+# Arquivos de sessão do WhatsApp (NÃO DEVEM SER COMPARTILHADOS)
+.wwebjs_auth/
